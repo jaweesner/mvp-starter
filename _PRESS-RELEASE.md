@@ -23,7 +23,7 @@ Once the project moves into development, the press release can be used as a touc
   > Bring the spirit of adventure to your hikes!
 
 ## Summary ##
-  > Hike Roulette chooses a hike for you based on your location and preferences to help you explore the unknown! 
+  > Hike Roulette chooses a hike for you based on your location and preferences to help you explore the unknown!  Users can login to save the hikes they've been on and mark them as favs to try again, or hikes to avoid in the future. 
 
 ## Problem ##
   > I'm terribly indecisive with hiking, I always try to pick the very best place to hike, which in some cases can eat up significant amounts of time.
