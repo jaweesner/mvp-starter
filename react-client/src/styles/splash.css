@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Pompiere|Source+Serif+Pro');
+  
+  .overall{
+    background-image: url("https://images.unsplash.com/photo-1471455558438-c1e9d5854d85?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=911fae79e8c25678d4910b1a76ea51cb");
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    background-size: cover;
+    height: 100%;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .head{
+    font-size: 110px;
+    font-variant: small-caps;
+    font-family: 'Pompiere', cursive;
+    padding-bottom: 40px;
+    letter-spacing: .08em;
+  }
+
+  .location{
+    background: #f0f0f3;
+    opacity: .8;
+    font-size: 20px;
+    width: 350px;
+    padding: 20px 60px;
+    margin: 30px;
+    text-align: center;
+    letter-spacing: .05em;
+    font-variant: all-small-caps;
+    font-family: 'Source Serif Pro', serif;
+  }
+
+  .roulette{
+    padding: 20px 50px;
+    border: none;
+    letter-spacing: .05em;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    opacity: .9;
+    box-shadow: 2px 2px 10px 2px #839c93;
+    
+}
+.roulette:hover{
+  transform: scale(1.1);
+  }

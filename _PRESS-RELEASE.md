@@ -17,28 +17,20 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > HikeRoulette
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Bring the spirit of adventure to your hikes!
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Hike Roulette chooses a hike for you based on your location and preferences to help you explore the unknown!  Users can login to save the hikes they've been on and mark them as favs to try again, or hikes to avoid in the future. 
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > I'm terribly indecisive with hiking, I always try to pick the very best place to hike, which in some cases can eat up significant amounts of time.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
-
-## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > By using HikeRoulette, I can find a hike with the click of a button, that takes me to places that I might otherwise overlook without having to wade through tons of choices. 
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > The app detects your location automatically, all you need to do is click 'roulette'. You can also filter down your options based on preferences. 
 
-## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-
-## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
